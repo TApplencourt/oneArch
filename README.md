@@ -1,7 +1,8 @@
 # oneArch
 
 
-![image](https://user-images.githubusercontent.com/6524907/221309884-df8b09da-86f1-4c42-96d4-cebed9aeacf4.png)
+![image](https://user-images.githubusercontent.com/6524907/221313336-80535277-7571-4a59-9122-df572615be25.png)
+
 
 How to reproduce results:
 
